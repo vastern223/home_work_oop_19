@@ -1,0 +1,16 @@
+﻿  Source.cpp
+C:\Users\Kolotyuk\source\repos\home_work_oop_19\home_work_oop_19\AirDefenseVehicle.h(25,15): warning C4244: return: преобразование "int" в "float", возможна потеря данных
+C:\Users\Kolotyuk\source\repos\home_work_oop_19\home_work_oop_19\ArmoredCar.h(22,13): warning C4244: return: преобразование "int" в "float", возможна потеря данных
+C:\Users\Kolotyuk\source\repos\home_work_oop_19\home_work_oop_19\Source.cpp(27,25): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\Kolotyuk\source\repos\home_work_oop_19\home_work_oop_19\Source.cpp(39,25): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\Kolotyuk\source\repos\home_work_oop_19\home_work_oop_19\Source.cpp(64,82): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Kolotyuk\source\repos\home_work_oop_19\home_work_oop_19\Source.cpp(64,88): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\Kolotyuk\source\repos\home_work_oop_19\home_work_oop_19\Source.cpp(68,126): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Kolotyuk\source\repos\home_work_oop_19\home_work_oop_19\Source.cpp(72,96): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Kolotyuk\source\repos\home_work_oop_19\home_work_oop_19\Source.cpp(84,82): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Kolotyuk\source\repos\home_work_oop_19\home_work_oop_19\Source.cpp(84,88): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\Kolotyuk\source\repos\home_work_oop_19\home_work_oop_19\Source.cpp(88,126): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Kolotyuk\source\repos\home_work_oop_19\home_work_oop_19\Source.cpp(92,96): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Kolotyuk\source\repos\home_work_oop_19\home_work_oop_19\Source.cpp(132,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Kolotyuk\source\repos\home_work_oop_19\home_work_oop_19\Source.cpp(51): warning C4715: Round: значение возвращается не при всех путях выполнения
+  home_work_oop_19.vcxproj -> C:\Users\Kolotyuk\source\repos\home_work_oop_19\Debug\home_work_oop_19.exe
